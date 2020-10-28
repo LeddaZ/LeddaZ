@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **Windows sucks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social stuff:</h3>
 <p align="left">
 <a href="https://twitter.com/leddaz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leddaz_" height="30" width="40" /></a>
 <a href="https://instagram.com/leonardo.ledda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonardo.ledda" height="30" width="40" /></a>

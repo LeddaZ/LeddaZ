@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact: **Windows sucks**
 
+If you have a Redmi Note 9S/Pro/Pro Max or a POCO M2 Pro, check [this](https://sourceforge.net/projects/leddaz/files/curtana-unified/lineage-17.1/) out :)
+
 <h3 align="left">Social stuff:</h3>
 <p align="left">
 <a href="https://twitter.com/leddaz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leddaz_" height="30" width="40" /></a>

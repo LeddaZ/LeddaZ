@@ -7,19 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/leddaz_" target="blank"><img src="https://img.shields.io/twitter/follow/leddaz_?logo=twitter&style=for-the-badge" alt="leddaz_" /></a> </p>
 
-- 🔭 I’m currently working on **random stuff**
+- 🔭 I’m currently working on **LineageOS 17.1 and dotOS 5.0.0 for Redmi Note 9S/Pro/Pro Max/POCO M2 Pro**
 
 - 🌱 I’m currently learning **Python/Java**
 
 - ⚡ Fun fact: **Windows sucks**
 
-If you have a Redmi Note 9S/Pro/Pro Max or a POCO M2 Pro, check [this](https://sourceforge.net/projects/leddaz/files/curtana-unified/lineage-17.1/) out :)
-
 <h3 align="left">Social stuff:</h3>
 <p align="left">
 <a href="https://twitter.com/leddaz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leddaz_" height="30" width="40" /></a>
 <a href="https://instagram.com/leonardo.ledda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leonardo.ledda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCt8eUIqLOZa9ByXAjlUHa1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="leddaz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCt8eUIqLOZa9ByXAjlUHa1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="leddaz" height="30" width="40" /></a><br>
+<a href="https://sourceforge.net/project/leddaz/files" target="blank">Also you can find my ROMs here :)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/leddaz_" target="blank"><img src="https://img.shields.io/twitter/follow/leddaz_?logo=twitter&style=for-the-badge" alt="leddaz_" /></a> </p>
 
-- 🔭 I’m currently working on **ROMs for Redmi Note 9S/Pro/Pro Max/POCO M2 Pro**
+- 🔭 I’m currently working on **ROMs for Redmi Note 9S and other random stuff**
 
-- 🌱 I’m currently learning **Python/Java**
+- 🌱 I’m currently learning **C#/Java (and Python maybe)**
 
-- ⚡ Fun fact: **Windows sucks**
+- ⚡ Fun fact: **Windows sucks but I'm forced to use it**
 
 <h3 align="left">Social stuff:</h3>
 <p align="left">

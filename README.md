@@ -13,7 +13,7 @@
 [![CCGUI](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ChampionComparatorGUI&theme=outrun)](https://github.com/LeddaZ/ChampionComparatorGUI)
 
 [![CCUWP](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ChampionComparatorUWP&theme=outrun)](https://github.com/LeddaZ/ChampionComparatorUWP)
-[![Switchdroid](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=android-switch&theme=outrun)](https://github.com/LeddaZ/android-switch)
+[![Switchdroid](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=lineage-switch&theme=outrun)](https://github.com/LeddaZ/lineage-switch)
 
 <h3 align="left">Social stuff:</h3>
 <p align="left">

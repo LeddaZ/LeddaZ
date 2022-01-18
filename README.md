@@ -1,11 +1,11 @@
 <h1 align="center">Hi, you found my GitHub profile :)</h1>
-<h3 align="center">This is a certified hood classic</h3>
+<h3 align="center">La burla informatica</h3>
 
-- I like building ROMs and starting projects that will eventually be abandoned
+- I like building ROMs and starting projects that will eventually be abandoned. Currently maintaining POSP for `miatoll`.
 
 - I’m currently learning **Java, JavaScript, C and Python**; I also know some **Node.js and C#**.
 
-- Fun fact: ayo the 🍕 here
+- Fun fact: POSP download stats [here](https://github.com/LeddaZ/LeddaZ/blob/master/posp-stats.md) because why not `¯\_(ツ)_/¯`
 
 <h3 align="left">Pinned garbage:</h3>
 

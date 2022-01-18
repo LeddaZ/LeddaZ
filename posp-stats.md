@@ -1,0 +1,5 @@
+# POSP Download Stats
+
+Every version that I maintain officially will be shown here.
+
+![5.1.0](https://img.shields.io/github/downloads/PotatoDevices/device_xiaomi_miatoll/5.1.0/total?label=5.1.0)

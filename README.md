@@ -10,7 +10,7 @@
 <h3 align="left">Pinned garbage:</h3>
 
 [![Busi](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=NastroAdesivoBot&theme=outrun)](https://github.com/LeddaZ/NastroAdesivoBot)
-[![CCGUI](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ChampionComparatorGUI&theme=outrun)](https://github.com/LeddaZ/ChampionComparatorGUI)
+[![MicaPad](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=MicaPad&theme=outrun)](https://github.com/LeddaZ/MicaPad)
 
 [![CCUWP](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ChampionComparatorUWP&theme=outrun)](https://github.com/LeddaZ/ChampionComparatorUWP)
 [![Switchdroid](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=lineage-switch&theme=outrun)](https://github.com/LeddaZ/lineage-switch)

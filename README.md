@@ -21,7 +21,7 @@ I maintain POSP for `miatoll`, so I put download stats [here](https://github.com
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="./assets/C_Logo.png" alt="c" width="40" height="45"/></a>
+    <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="./assets/C_Logo.png" alt="c" width="35" height="40"/></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="./assets/csharp.svg" alt="csharp" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>

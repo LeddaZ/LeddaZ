@@ -7,7 +7,7 @@ I maintain POSP for `miatoll`, so I put download stats [here](https://github.com
 [![Busi](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=NastroAdesivoBot&theme=outrun)](https://github.com/LeddaZ/NastroAdesivoBot)
 [![MicaPad](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=MicaPad&theme=outrun)](https://github.com/LeddaZ/MicaPad)
 
-[![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&theme=outrun)](https://github.com/LeddaZ/ChampionComparatorUWP)
+[![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&theme=outrun)](https://github.com/LeddaZ/ReVancedUpdater)
 [![Switchdroid](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=lineage-switch&theme=outrun)](https://github.com/LeddaZ/lineage-switch)
 
 <h3 align="left">Social stuff:</h3>

@@ -1,14 +1,9 @@
-<h1 align="center">who dis</h1>
+<h1 align="center">Uhh hi</h1>
 
-I maintain POSP for `miatoll`, so I put download stats [here](https://github.com/LeddaZ/LeddaZ/blob/master/posp-stats.md) because why not `¯\_(ツ)_/¯`
-
-<h3 align="left">Pinned garbage:</h3>
-
-[![Busi](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=NastroAdesivoBot&theme=outrun)](https://github.com/LeddaZ/NastroAdesivoBot)
-[![MicaPad](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=MicaPad&theme=outrun)](https://github.com/LeddaZ/MicaPad)
+<h3 align="left">Interesting stuff:</h3>
 
 [![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&theme=outrun)](https://github.com/LeddaZ/ReVancedUpdater)
-[![Switchdroid](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=lineage-switch&theme=outrun)](https://github.com/LeddaZ/lineage-switch)
+[![karanul](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=kernel_xiaomi_sm6250&theme=outrun)](https://github.com/LeddaZ/kernel_xiaomi_sm6250)
 
 <h3 align="left">Social stuff:</h3>
 <p align="left">

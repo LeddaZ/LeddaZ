@@ -3,7 +3,7 @@
 <h3 align="left">Interesting stuff:</h3>
 
 [![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&theme=outrun)](https://github.com/LeddaZ/ReVancedUpdater)
-[![karanul](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=kernel_xiaomi_sm6250&theme=outrun)](https://github.com/LeddaZ/kernel_xiaomi_sm6250)
+[![karanul](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=android_kernel_xiaomi_sm6250&theme=outrun)](https://github.com/LeddaZ/android_kernel_xiaomi_sm6250)
 
 <h3 align="left">Social stuff:</h3>
 <p align="left">

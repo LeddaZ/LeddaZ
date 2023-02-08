@@ -4,6 +4,7 @@
 
 [![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&theme=outrun)](https://github.com/LeddaZ/ReVancedUpdater)
 [![karanul](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=android_kernel_xiaomi_sm6250&theme=outrun)](https://github.com/LeddaZ/android_kernel_xiaomi_sm6250)
+[![single_braincell_creatures](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=animalinfo&theme=outrun)](https://github.com/LeddaZ/animalinfo)
 
 <h3 align="left">Social stuff:</h3>
 <p align="left">

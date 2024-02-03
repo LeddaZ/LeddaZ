@@ -14,7 +14,7 @@
     <a href="https://t.me/LeddaZlinks"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="LeddaZlinks" height="40" width="40"/></a>
     <a href="https://twitter.com/LeddaZ_"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="leddaz_" height="40" width="40"/></a>
     <a href="https://instagram.com/leonardo.ledda"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="leonardo.ledda" height="40" width="40"/></a>
-    <a href="https://threads.com/leonardo.ledda"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/threads.svg" alt="leonardo.ledda" height="40" width="40"/></a>
+    <a href="https://threads.com/leonardo.ledda"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/threads.svg" alt="leonardo.ledda" height="41" width="41" style="border-radius: 6px"/></a>
     <a href="https://www.youtube.com/@LeddaZ"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="leddaz" height="40" width="40"/></a>
 </p>
 

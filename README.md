@@ -3,8 +3,8 @@
 <h3>Cool stuff</h3>
 
 [![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/ReVancedUpdater)
-[![karanul](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=android_kernel_xiaomi_sm6250&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/android_kernel_xiaomi_sm6250)
-[![stootix](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=android_device_xiaomi_miatoll&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/android_device_xiaomi_miatoll)
+[![notes](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=notes&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/notes)
+[![its](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=its&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/its)
 [![single_braincell_creatures](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=animalinfo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/animalinfo)
 
 <p><a href="https://leddaz.github.io/files/gpg.asc">My public GPG key</a></p>

@@ -6,10 +6,11 @@
 
 <h3 align="center">Cool stuff</h3>
 
-[![ReVancedUpdater](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/ReVancedUpdater)
-[![notes](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=notes&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/notes)
-[![its](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=its&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/its)
-[![single_braincell_creatures](https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=animalinfo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/LeddaZ/animalinfo)
+<p align="center">
+    <a href="https://github.com/LeddaZ/ReVancedUpdater"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=ReVancedUpdater&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+    <a href="https://github.com/LeddaZ/notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=notes&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+    <a href="https://github.com/LeddaZ/animalinfo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LeddaZ&repo=animalinfo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+</p>
 
 <p align="center"><a href="https://leddaz.github.io/files/gpg.asc">My public GPG key</a></p>
 
@@ -31,4 +32,6 @@
     <a href="https://www.python.org"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-![LeddaZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeddaZ&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeddaZ&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
+</p>

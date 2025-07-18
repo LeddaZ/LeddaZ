@@ -1,4 +1,4 @@
-# LeddaZ's random things
+# Leonardo's random things
 
 ![luckystar](./assets/luckystar.gif)
 

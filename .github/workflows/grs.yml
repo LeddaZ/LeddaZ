@@ -42,6 +42,14 @@ jobs:
           options: username=LeddaZ&repo=animalinfo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
           path: cards/animalinfo.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate its-final-exam card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=LeddaZ&repo=its-final-exam&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
+          path: cards/its-final-exam.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |

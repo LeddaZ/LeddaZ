@@ -7,6 +7,7 @@
 [![rvupdater](./cards/rvupdater.svg)](https://github.com/LeddaZ/ReVancedUpdater)
 [![notes](./cards/notes.svg)](https://github.com/LeddaZ/notes)
 [![animalinfo](./cards/animalinfo.svg)](https://github.com/LeddaZ/animalinfo)
+[![its-final-exam](./cards/its-final-exam.svg)](https://github.com/LeddaZ/its-final-exam)
 
 [My public GPG key](https://leddaz.github.io/files/gpg.asc)
 

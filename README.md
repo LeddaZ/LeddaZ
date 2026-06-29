@@ -4,7 +4,7 @@
 
 ## Cool stuff
 
-[![rvupdater](./cards/rvupdater.svg)](https://github.com/LeddaZ/ReVancedUpdater)
+[![retroidui](./cards/retroidui.svg)](https://github.com/LeddaZ/Retroid-UI-Improvements)
 [![notes](./cards/notes.svg)](https://github.com/LeddaZ/notes)
 [![animalinfo](./cards/animalinfo.svg)](https://github.com/LeddaZ/animalinfo)
 [![its-final-exam](./cards/its-final-exam.svg)](https://github.com/LeddaZ/its-final-exam)

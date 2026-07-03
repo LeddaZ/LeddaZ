@@ -35,12 +35,12 @@ jobs:
           path: cards/notes.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Generate AnimalInfo card
+      - name: Generate nds-gba-border-go card
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=LeddaZ&repo=animalinfo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
-          path: cards/animalinfo.svg
+          options: username=LeddaZ&repo=nds-gba-border-go&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
+          path: cards/gbaborders.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate its-final-exam card

@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Magisk module that applies some UI improvements to</tspan><tspan dy="1.2em" x="25">Retroid's stock OS</tspan>
+      <tspan dy="1.2em" x="25">Magisk module that applies some UI improvements to</tspan><tspan dy="1.2em" x="25">Retroid&#39;s stock OS</tspan>
     </text>
 
     <g transform="translate(30, 65)">
